@@ -2,7 +2,6 @@
 
 # dependencies
 node_modules
-config.js
 client/.env
 server/.env
 
